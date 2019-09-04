@@ -1,0 +1,15 @@
+<core:View xmlns:core="sap.ui.core" xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m"
+		controllerName="zsli01.Products" xmlns:html="http://www.w3.org/1999/xhtml">
+	
+	
+	<Page title="{i18n>TITLE}">
+		<content>
+	       <List items="{/results}">
+	          <items>
+	              <StandardListItem title="{name}" 
+	              description="{description}"/> 
+	          </items>
+	       </List>
+		</content>
+	</Page>
+</core:View>

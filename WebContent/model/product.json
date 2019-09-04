@@ -1,0 +1,17 @@
+{
+  "results" : [
+					{
+					  "name" : "MacPro",
+					  "description" : "yoshiba OS"
+					},
+					{
+					  "name" : "Lenovo",
+					  "description" : "windows 10"
+					},
+					{
+					  "name" : "Dell",
+					  "description" : "windows 11"
+					}
+					]
+
+}

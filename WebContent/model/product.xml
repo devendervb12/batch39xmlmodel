@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+	<results>
+		<name>MacPro</name>
+		<description>yoshiba OS</description>
+	</results>
+	<results>
+		<name>Lenovo</name>
+		<description>windows 10</description>
+	</results>
+	<results>
+		<name>Dell</name>
+		<description>windows 11</description>
+	</results>
+</root>
+
